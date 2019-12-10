@@ -10,4 +10,3 @@ class Person
   end
 end
 
-person.
